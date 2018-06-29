@@ -1,4 +1,5 @@
 program project
+  ! Xin Ye, April 2016
 
   use stack_mod
   use omp_lib
